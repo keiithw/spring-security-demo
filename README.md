@@ -1,6 +1,7 @@
 # Spring security Demo
 
 hi.html需要登录 具有user角色才能访问，index.html无需登录
+test包测试了api组件流程
 ```
 /**
  * 验证流程：
